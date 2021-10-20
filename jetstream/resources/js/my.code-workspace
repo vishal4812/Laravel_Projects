@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../SafeHoliday"
+		},
+		{
+			"path": "../../../chatStream"
+		},
+		{
+			"path": "../../../nodeJs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "typescript"
+	}
+}
